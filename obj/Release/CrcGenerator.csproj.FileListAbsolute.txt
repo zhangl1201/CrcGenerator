@@ -1,0 +1,5 @@
+C:\Users\LingLing~~~\Documents\Visual Studio 2015\Projects\CrcGenerator\CrcGenerator\bin\Release\CrcGenerator.exe.config
+C:\Users\LingLing~~~\Documents\Visual Studio 2015\Projects\CrcGenerator\CrcGenerator\bin\Release\CrcGenerator.exe
+C:\Users\LingLing~~~\Documents\Visual Studio 2015\Projects\CrcGenerator\CrcGenerator\bin\Release\CrcGenerator.pdb
+C:\Users\LingLing~~~\Documents\Visual Studio 2015\Projects\CrcGenerator\CrcGenerator\obj\Release\CrcGenerator.exe
+C:\Users\LingLing~~~\Documents\Visual Studio 2015\Projects\CrcGenerator\CrcGenerator\obj\Release\CrcGenerator.pdb

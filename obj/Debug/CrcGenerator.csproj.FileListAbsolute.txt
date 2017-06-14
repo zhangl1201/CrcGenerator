@@ -1,0 +1,6 @@
+c:\Users\lingling~~~\documents\visual studio 2015\Projects\CrcGenerator\CrcGenerator\bin\Debug\CrcGenerator.exe.config
+c:\Users\lingling~~~\documents\visual studio 2015\Projects\CrcGenerator\CrcGenerator\bin\Debug\CrcGenerator.exe
+c:\Users\lingling~~~\documents\visual studio 2015\Projects\CrcGenerator\CrcGenerator\bin\Debug\CrcGenerator.pdb
+c:\Users\lingling~~~\documents\visual studio 2015\Projects\CrcGenerator\CrcGenerator\obj\Debug\CrcGenerator.csprojResolveAssemblyReference.cache
+c:\Users\lingling~~~\documents\visual studio 2015\Projects\CrcGenerator\CrcGenerator\obj\Debug\CrcGenerator.exe
+c:\Users\lingling~~~\documents\visual studio 2015\Projects\CrcGenerator\CrcGenerator\obj\Debug\CrcGenerator.pdb
